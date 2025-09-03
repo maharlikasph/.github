@@ -44,7 +44,7 @@ Maharlikas PH is an initiative dedicated to promoting government transparency an
 
 - 🌍 **Website**: [maharlikas.ph](https://maharlikas.ph)  
 - 🐦 **Twitter/X**: [@maharlikasph](https://x.com/maharlikasph)  
-- 📘 **Facebook**: [Maharlikas PH](https://facebook.com/maharlikasph)  
+- 📘 **Facebook**: [@maharlikasph](https://facebook.com/maharlikasph)  
 - 💬 **Telegram**: [@maharlikasph](https://t.me/maharlikasph)  
 - 📧 **Email**: dev@maharlikas.ph  
 - 💻 **GitHub**: [github.com/maharlikasph](https://github.com/maharlikasph)  
