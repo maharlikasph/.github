@@ -2,7 +2,7 @@
   <img src="https://maharlikas.ph/logo.png" alt="Maharlikas PH Logo" width="200"/>
 </p>
 
-# Maharlikas PH
+# Maharlikas.PH
 
 **The People’s Distributed Ledger Layer-1 Chain**  
 *Gov transparency + Citizen innovation | AI + Blockchain*  
