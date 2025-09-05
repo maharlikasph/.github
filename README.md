@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://maharlikas.ph/logo.png" alt="Maharlikas PH Logo" width="200"/>
+  <img src="https://i.ibb.co/rKSfg6Vx/maharlikas.png" alt="Maharlikas PH Logo" width="200"/>
 </p>
 
 # Maharlikas.PH
